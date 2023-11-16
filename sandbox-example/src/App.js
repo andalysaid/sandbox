@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React to get money
+          Learn React to get money and stuff
         </a>
         <btn href="www.google.com">Click NOW PLEASE.</btn>
       </header>
