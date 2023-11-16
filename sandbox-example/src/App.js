@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <btn>Click me.</btn>
       </header>
     </div>
   );
