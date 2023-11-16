@@ -17,7 +17,7 @@ function App() {
         >
           Learn React to get money
         </a>
-        <btn href="www.google.com">Click me.</btn>
+        <btn href="www.google.com">Click NOW PLEASE.</btn>
       </header>
     </div>
   );
