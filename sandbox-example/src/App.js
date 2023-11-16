@@ -17,7 +17,7 @@ function App() {
         >
           Learn React to get fame
         </a>
-        <btn>Click me if you want money.</btn>
+        <btn href="www.google.com">Click NOW PLEASE.</btn>
       </header>
     </div>
   );
